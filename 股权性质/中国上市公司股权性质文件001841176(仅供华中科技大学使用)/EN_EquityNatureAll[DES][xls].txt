@@ -1,0 +1,5 @@
+Symbol [证券代码] - 交易所公布的代码
+ShortName [证券简称] - 报告期截止时的证券简称
+EndDate [截止日期] - 
+TopTenHoldersRate [前十大股东持股比例(%)] - 前十名股东持股比例之和
+EquityNature [股权性质] - 国企、民营、外资、其他
