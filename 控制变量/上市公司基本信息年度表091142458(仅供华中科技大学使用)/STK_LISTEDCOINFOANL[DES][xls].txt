@@ -1,0 +1,7 @@
+Symbol [股票代码] - 上交所、深交所和北交所上市的证券代码。
+ShortName [股票简称] - 上交所、深交所和北交所上市上市的股票简称。
+EndDate [统计截止日期] - YYYY-MM-DD。
+IndustryName [行业名称] - 2012版证监会行业分类名称。
+IndustryCode [行业代码] - 2012版证监会行业分类代码。
+LISTINGDATE [首次上市日期] - 上市公司首次上市日期
+LISTINGSTATE [上市状态] - 
