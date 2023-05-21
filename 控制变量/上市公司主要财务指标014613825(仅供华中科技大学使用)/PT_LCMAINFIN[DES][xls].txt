@@ -1,4 +1,0 @@
-Symbol [证券代码] - 以证券交易所公布的证券代码为准
-EndDate [统计截止日期] - YYYY-MM-DD，前四位表示会计报表公布年度
-TotalAssets [总资产] - 
-TotalLiability [总负债] - 
